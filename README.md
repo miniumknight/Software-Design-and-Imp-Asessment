@@ -1,7 +1,7 @@
 # Software-Design-and-Imp-Asessment
 
-##Project fot Software Design and Implementation assignment
+## Project fot Software Design and Implementation assignment
 
-##Group 50
+## Group 50
 
-Wedad Alhoula
+## Wedad Alhoula
